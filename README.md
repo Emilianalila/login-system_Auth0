@@ -38,3 +38,6 @@ What they should have access to Verified signature to validate with
 Resource is requested from a resource server With the token attached in the header
 Resource server asks the authentication server for info on how to validate the signature
 If valid, the resource is given
+
+video tutorial:
+https://www.youtube.com/watch?v=pAzqscDx580
